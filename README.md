@@ -38,7 +38,7 @@ I stumbled across a very reasonably priced 120GB 2008 7th Generation iPod Classi
 > If you want to use more than 128GB storage, you'll need to refer to @Olsro's guide to overwrite your serial number and trick iTunes into flashing 160GB 7th generation iPod firmware (version 2.0.4).
 
 ## 1. start designing things in CAD
-Already owning a 3D printer, my next step was to start designing parts in CAD.\
+Already owning a 3D printer, my next step was to start designing parts in CAD.
 - Obtain reference files:
   1. iPod 5th-7th generation rear shell
   2. iPod video face plate
